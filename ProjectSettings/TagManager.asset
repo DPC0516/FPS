@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Initializer
+  - BulletHole
+  - Manager
+  - Field
+  - Middle
+  - TopCamera
+  - DeployPopup
+  - Bullet
+  - EmptyShell
+  - MuzzleEffect
+  - DieArea
+  - PlayerCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Map
+  - Gun
+  - Player
+  - HitEffect
+  - BulletHole
+  - EmptyShell
+  - Bullet
+  - Parachute
+  - MuzzleEffect
+  - BulletCollider
+  - Grenade
+  - AbnormalStatus
+  - HPStatus
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
